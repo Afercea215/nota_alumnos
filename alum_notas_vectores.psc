@@ -24,7 +24,7 @@ Algoritmo sin_titulo
 		para j<-0 hasta num_asig-1 Hacer
 		
 			para k<-0 hasta num_notas-1 hacer
-				Escribir Sin Saltar "Escribir nota",j+1,"º asignatuda del alumno ",nombre[i]," ->";
+				Escribir Sin Saltar "Escribir la ",k+1,"º nota de la ", k+1," asignatuda del alumno ",nombre[i]," ->";
 				Leer nota[i,j,k];
 				suma<-suma+nota[i,j,k];
 			FinPara
@@ -51,5 +51,6 @@ Algoritmo sin_titulo
 		FinSi
 	FinPara
 	
+	//sdasdsasssssssssssssssssss
 
 FinAlgoritmo
