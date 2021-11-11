@@ -1,5 +1,6 @@
 Algoritmo sin_titulo
 	//preguntar 10 notas y decir cual esta encima de la media
+	//nueva rama
 	Definir nota,i,j,k,media,suma Como real;
 	Definir nombre,aprovado Como Caracter;
 	
