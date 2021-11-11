@@ -2,7 +2,7 @@ Algoritmo sin_titulo
 	//preguntar 10 notas y decir cual esta encima de la media
 	Definir nota,i,j,k,media,suma, num_alum, num_asig, num_notas, suma_media, media_total Como real;
 	Definir nombre,aprovado Como Caracter;
-	
+	//sssssssssssssssssss
 	Escribir Sin Saltar "Introduce el número de alumnos que deseas introducir sus datos -";
 	Leer num_alum;
 	
